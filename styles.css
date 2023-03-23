@@ -5,13 +5,13 @@ font-family: 'Montserrat', sans-serif;
 font-weight: 100;
 font-variant-ligatures: normal;
 font-size: 1rem;
-letter-spacing: 1px;
+letter-spacing: 1%;
 text-align: center;
 }
 
 h3{
 color: #66BFBF;
-margin-bottom:5px;
+margin-bottom:2%;
 
 }
 
@@ -23,13 +23,13 @@ padding:0;
 hr{
 border-color:grey;
 width:85%;
-height:0px;}
+height:0;}
 
 
 
 img{
 float:left;
-margin: 20px 0 20px 30%;
+margin: 2% 0 2% 25%;
 }
 
 ol{
@@ -40,31 +40,31 @@ width:50%;
 
 table,
 td{
-margin:0 auto 10px auto;
+margin:0 auto 2% auto;
 text-align:left;
-border-spacing:0px 0;
+border-spacing:0 0;
 border-color:grey;
 border-collapse:collapse;
-border-width:1px;
+border-width:6.25%;
 }
 
 table,
 th{
-margin:0 auto 10px auto;
+margin:0 auto 2% auto;
 text-align:left;
-border-spacing:20px 0;
+border-spacing:125% 0;
 border-collapse:collapse;
 border-color:grey;
-border-width:1px;
-padding:0 0 0 30px;
+border-width:6.25%;
+padding:0 0 0 187.5%;
 }
 
 .in{
-margin:0 auto 10px auto;
+margin:0 auto 2% auto;
 text-align:left;
-border-spacing:20px 0;
+border-spacing:125% 0;
 border-collapse:collapse;
 border-color:grey;
-border-width:1px;
-padding:0 0 0 30px;
+border-width:6.25%;
+padding:0 0 0 187.5%;
 }
