@@ -4,7 +4,7 @@ font-style: normal;
 font-family: 'Montserrat', sans-serif;
 font-weight: 100;
 font-variant-ligatures: normal;
-font-size: 1rem;
+font-size: auto;
 letter-spacing: 1%;
 text-align: center;
 }
@@ -29,7 +29,7 @@ height:0;}
 
 img{
 float:left;
-margin: 2% auto 2% auto;
+margin: 2% 2% 2% auto;
 }
 
 ol{
@@ -67,4 +67,14 @@ border-collapse:collapse;
 border-color:grey;
 border-width:6.25%;
 padding:0 0 0 187.5%;
+}
+
+#mm{
+text-align:left;
+padding:5% 0 0 5%;
+}
+
+.ph{
+text-align:left;
+margin-left:5%;
 }
