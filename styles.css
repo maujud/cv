@@ -1,0 +1,89 @@
+body{
+background-color: #C9EEFF;
+font-style: normal;
+font-family: 'Montserrat', sans-serif;
+font-weight: 100;
+font-variant-ligatures: normal;
+font-size: auto;
+letter-spacing: 1%;
+text-align: center;
+}
+
+.bio{
+position:relative;
+left:25rem;
+text-align:right;}
+
+h3{
+color: #66BFBF;
+margin-bottom:2%;
+
+}
+
+h4{
+float:left;
+padding:0;
+}
+
+hr{
+border-color:grey;
+width:85%;
+height:0;}
+
+
+
+img{
+float:left;
+margin: 2% 2% 2% auto;
+}
+
+ol{
+margin:0 40% 0;
+text-align:left;
+width:50%;
+}
+
+li{
+padding:0.5rem;
+}
+
+table,
+td{
+margin:0 auto 2% auto;
+text-align:left;
+border-spacing:0 0;
+border-color:grey;
+border-collapse:collapse;
+border-width:6.25%;
+padding:1rem 0 0 2rem;
+}
+
+table,
+th{
+margin:0 auto 2% auto;
+text-align:left;
+border-spacing:125% 0;
+border-collapse:collapse;
+border-color:grey;
+border-width:6.25%;
+padding:0 0 0 2rem;
+}
+
+.in{
+margin:0 auto 2% auto;
+text-align:left;
+border-spacing:125% 0;
+border-collapse:collapse;
+border-color:grey;
+border-width:6.25%;
+}
+
+#mm{
+text-align:left;
+padding:5% 0 0 5%;
+}
+
+.ph{
+text-align:left;
+margin-left:5%;
+}
